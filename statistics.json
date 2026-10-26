@@ -1,0 +1,10 @@
+{
+    "ARP": 8,
+    "IP": 193,
+    "ICMP": 12,
+    "TCP": 172,
+    "UDP": 14,
+    "DNS": 12,
+    "PortScanAlerts": 1,
+    "DNSQueries": 7
+}

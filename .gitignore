@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+*.pem
+*.key
+logs/
+*.pcap
+*.pcapng
+.DS_Store
+main_backup.py
