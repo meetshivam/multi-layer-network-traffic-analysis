@@ -328,7 +328,7 @@ sudo apt install -y nmap
 
 ## 12. License
 
-This project is released under the **MIT License**. Before publishing, create a file named `LICENSE` in the repository root and replace `[YEAR]` and `[COPYRIGHT HOLDER]` with the correct details.
+
 
 ```text
 MIT License
