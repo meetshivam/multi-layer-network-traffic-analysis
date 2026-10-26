@@ -333,7 +333,7 @@ This project is released under the **MIT License**. Before publishing, create a 
 ```text
 MIT License
 
-Copyright (c) [YEAR] [COPYRIGHT HOLDER]
+Copyright (c) 2026 Shivam Gautam
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -352,6 +352,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
-
-Ensure all included project files and third-party code are compatible with the chosen license.
