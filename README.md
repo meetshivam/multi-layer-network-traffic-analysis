@@ -264,6 +264,14 @@ Reads `statistics.json` and saves `threat_detection.png`.
 
 Open the `.png` files using Kali's file manager or transfer them to the host computer. The charts show saved counts; they do not independently prove that an attack occurred.
 
+## Viewing the Graphs 
+
+Run this command after generating the graphs to view the graphs itself in the kali linux .
+
+```bash
+xdg-open osi_layer_distribution.png
+```
+
 ## 10. Analyse a Saved PCAP
 
 The helper `capture_test.py` captures 50 packets and saves them to `test_capture.pcap`. Run it only in your authorised lab:
